@@ -7,7 +7,7 @@ import pandas as pd
 # ------------------------
 # Parameters
 # ------------------------
-n_particles = 100
+n_particles = 10
 L = 10
 timesteps = 200
 dt = 0.02
